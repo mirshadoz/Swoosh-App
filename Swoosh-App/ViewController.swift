@@ -6,6 +6,8 @@
 //  Copyright © 2018 Mirshad Oz. All rights reserved.
 //
 
+// Let's get started!
+
 import UIKit
 
 class ViewController: UIViewController {
